@@ -1,6 +1,6 @@
 <img src="https://jfede.com/portfolio/img/banner_github.png">
 
-<div align="center"><h1>Hi, I'm jfede 👋</h1></div>
+<div align="center"><h1>Hi, I'm Fede 👋</h1></div>
 
 ## 🛠️ My Skills
 ### 👉 Programming languages
